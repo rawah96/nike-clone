@@ -82,6 +82,10 @@ function Header() {
                     </IconButton>
                 </div>
             </div>
+            <div className="ads">Free Shipping & 60-Day Free Returns
+            <Link to="/join">Join now</Link>
+
+            </div>
         </div>
     )
 }

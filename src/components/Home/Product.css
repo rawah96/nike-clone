@@ -1,0 +1,33 @@
+.product {
+    cursor: pointer;
+}
+
+.product > img {
+    width: 350px;
+}
+
+.product:hover > img {
+    opacity: 0.5;
+    transition: 0.5s all ease;
+}
+
+.product-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.info-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.info-left > small {
+    color: gray;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.info-right {
+    padding: 20px;
+}
