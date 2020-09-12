@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3582418f392c67a089fc1a860750acf1",
+    "revision": "139e7e28a76c35a65eb8a41be902bf69",
     "url": "/nike-clone/index.html"
   },
   {
-    "revision": "0ce4d607dbd310f6ff25",
+    "revision": "3b7af6056028541be16d",
     "url": "/nike-clone/static/css/main.3891b1e1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nike-clone/static/js/2.aab3a995.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ce4d607dbd310f6ff25",
-    "url": "/nike-clone/static/js/main.0d699e4c.chunk.js"
+    "revision": "3b7af6056028541be16d",
+    "url": "/nike-clone/static/js/main.56716fd8.chunk.js"
   },
   {
     "revision": "cf0c0c5be3b0f2184d3e",
