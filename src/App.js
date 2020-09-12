@@ -8,6 +8,7 @@ import Kids from './components/Kids/Kids'
 import Help from './components/Help/Help'
 import Join from './components/Joinus/Join'
 import Login from './components/Signin/Signin'
+import Home from './components/Home/Home';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
 
 function App() {
@@ -17,7 +18,7 @@ function App() {
       <Header />
         <Switch>
           <Route exact path="/">
-            <h1>Home</h1>
+            <Home />
           </Route>
           <Route path="/newReleases">
             <NewReleases />

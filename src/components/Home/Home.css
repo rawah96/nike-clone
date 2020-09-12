@@ -1,0 +1,53 @@
+.home {
+    position: sticky;
+    text-align: center;
+}
+
+.home > img {
+    width: 100%;
+    z-index: 100;
+}
+
+.home > h1 {
+    position: absolute;
+    top: 8%;
+    left:50%;
+    text-replace: translate(-50%, -50%);
+    color: white;
+    font-weight: 900;
+    width: 200px;
+    font-size: 100px;
+    display: inline-block !important;
+}
+
+.home > h6 {
+    position: absolute;
+    top: 83%;
+    left:50%;
+    text-replace: translate(-50%, -50%);
+    color: white;
+    font-weight: 300;
+    font-size: 20px;
+    display: inline-block !important;
+}
+
+.shop-btn {
+    position: absolute;
+    top: 89%;
+    left:51%;
+    text-replace: translate(-50%, -50%);
+    background-color: white;
+    height: 42px;
+    width: 100px;
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: 800;
+    cursor: pointer;
+    outline: none;
+    display: inline-block !important;
+}
+
+.shop-btn:hover {
+    opacity: 0.5;
+}
