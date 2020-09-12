@@ -15,7 +15,7 @@
     display: flex;
 }
 
-.jordans > img {
+.jordans > a > img {
     padding: 10px;
     width: 20px;
     margin-left: 20px;
@@ -24,7 +24,7 @@
 .converse  {
     padding-left: 20px;
 }
-.converse > img {
+.converse > a > img {
     width: 60px;
     object-fit: contain;
 }
@@ -81,9 +81,11 @@
     padding-left: 100px;
 }
 
-.bottom-middle > a > h3 {
+.bottom-middle > a > h5 {
     margin: 20px;
     cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
 }
 
 .bottom-middle > a {

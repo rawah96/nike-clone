@@ -17,16 +17,17 @@ function Header() {
             <div className="top-header">
                 <div className="top-left">
                     <div className="jordans">
-                        <img  src={jordan} alt=""/>
+                        <Link to="/jordan">
+                            <img  src={jordan} alt=""/>
+                        </Link>
                     </div>
                     <div className="converse">
-                        <img src={converse} alt="" />
+                        <Link to="/converse">
+                            <img src={converse} alt="" />
+                        </Link>
                     </div>
                 </div>
                 <div className="top-right">
-                    {/* 
-                        Help | Join Us | Sign In
-                    */}
                     <Link to="/help">
                         <h5>Help</h5>
                     </Link>
@@ -51,16 +52,22 @@ function Header() {
                 <div className="bottom-middle">
                     {/* nav/router */}
                     <Link to="/newReleases">
-                        <h3>New Releases</h3>                        
+                        <h5>New Releases</h5>                        
                     </Link>
-                    <Link to="men">
-                        <h3>Men</h3>
+                    <Link to="/men">
+                        <h5>Men</h5>
                     </Link>
-                    <Link to="women">
-                        <h3>Women</h3>
+                    <Link to="/women">
+                        <h5>Women</h5>
                     </Link>
-                    <Link to="kids">
-                        <h3>Kids</h3>
+                    <Link to="/kids">
+                        <h5>Kids</h5>
+                    </Link>
+                    <Link to="/customize">
+                        <h5>Customize</h5>
+                    </Link>
+                    <Link to="/sale">
+                        <h5>Sale</h5>
                     </Link>
                 </div>
                 <div className="bottom-right">
