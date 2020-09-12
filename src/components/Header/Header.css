@@ -1,4 +1,6 @@
 .header {
+    display: flex;
+    flex-direction: column;
 }
 
 .top-header {
@@ -17,12 +19,14 @@
     padding: 10px;
     width: 20px;
     margin-left: 20px;
+    object-fit: contain;
 }
 .converse  {
     padding-left: 20px;
 }
 .converse > img {
     width: 60px;
+    object-fit: contain;
 }
 
 .jordans, .converse {
@@ -41,9 +45,86 @@
 .top-right > h5 {
     margin: 20px;
     font-weight: 600;
+    cursor: pointer;
 }
 
 .top-right > hr {
     height: 25px;
     margin-top: 15px;
+}
+
+.bottom-left > a > img {
+    width: 60px;
+    cursor: pointer;
+}
+
+.bottom-left:hover > a > img {
+    opacity: 0.5;
+}
+
+.bottom-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 28px;
+    padding-right: 20px;
+}
+
+/* make sure the space is correct */
+.bottom-middle {
+    display: flex;
+    padding-left: 100px;
+}
+
+.bottom-middle > a > h3 {
+    margin: 20px;
+    cursor: pointer;
+}
+
+.bottom-middle > a {
+    text-decoration: none;
+    color: black;
+}
+
+.bottom-right {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 15px;
+    margin-right: -10px;
+}
+
+.bottom-right > .search > input {
+    height: 30px;
+    border: none;
+    width: 110px;
+}
+
+.search {
+    border: 1px solid white;
+    border-radius: 20px;
+    display: flex;
+    padding: 5px;
+    background-color:rgb(238, 238, 238);
+    margin-right: 10px;
+    height: 28px;
+}
+
+.search > input {
+    background-color:rgb(238, 238, 238);
+    opacity: 0.5;
+    width: 40px;
+    outline: none;
+}
+
+.search-h3 {
+    font-size: 15px;
+    opacity: 0.2;
+    margin-left: 10px;
+    margin-top: 6px;
+}
+
+.MuiSvgIcon-root {
+    margin-top: 5px;
+    margin-right: 10px;
 }
