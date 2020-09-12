@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/nike-clone/static/css/main.9605a562.chunk.css",
-    "main.js": "/nike-clone/static/js/main.610f5ac8.chunk.js",
-    "main.js.map": "/nike-clone/static/js/main.610f5ac8.chunk.js.map",
+    "main.css": "/nike-clone/static/css/main.3891b1e1.chunk.css",
+    "main.js": "/nike-clone/static/js/main.eef510d4.chunk.js",
+    "main.js.map": "/nike-clone/static/js/main.eef510d4.chunk.js.map",
     "runtime-main.js": "/nike-clone/static/js/runtime-main.4cf28f47.js",
     "runtime-main.js.map": "/nike-clone/static/js/runtime-main.4cf28f47.js.map",
-    "static/js/2.cc548ad0.chunk.js": "/nike-clone/static/js/2.cc548ad0.chunk.js",
-    "static/js/2.cc548ad0.chunk.js.map": "/nike-clone/static/js/2.cc548ad0.chunk.js.map",
+    "static/js/2.aab3a995.chunk.js": "/nike-clone/static/js/2.aab3a995.chunk.js",
+    "static/js/2.aab3a995.chunk.js.map": "/nike-clone/static/js/2.aab3a995.chunk.js.map",
     "index.html": "/nike-clone/index.html",
-    "precache-manifest.0603960efe33f5038f1ae93b69f027a8.js": "/nike-clone/precache-manifest.0603960efe33f5038f1ae93b69f027a8.js",
+    "precache-manifest.6fe39872a8c0ab2a04bd25aeadd18b2d.js": "/nike-clone/precache-manifest.6fe39872a8c0ab2a04bd25aeadd18b2d.js",
     "service-worker.js": "/nike-clone/service-worker.js",
-    "static/css/main.9605a562.chunk.css.map": "/nike-clone/static/css/main.9605a562.chunk.css.map",
-    "static/js/2.cc548ad0.chunk.js.LICENSE.txt": "/nike-clone/static/js/2.cc548ad0.chunk.js.LICENSE.txt"
+    "static/css/main.3891b1e1.chunk.css.map": "/nike-clone/static/css/main.3891b1e1.chunk.css.map",
+    "static/js/2.aab3a995.chunk.js.LICENSE.txt": "/nike-clone/static/js/2.aab3a995.chunk.js.LICENSE.txt",
+    "static/media/airforce.jpg": "/nike-clone/static/media/airforce.1b19df20.jpg",
+    "static/media/converse.svg": "/nike-clone/static/media/converse.56e5e5aa.svg",
+    "static/media/jordan-delta.jpg": "/nike-clone/static/media/jordan-delta.e1f5b5e7.jpg",
+    "static/media/jordan.png": "/nike-clone/static/media/jordan.75264713.png",
+    "static/media/max2090.jpg": "/nike-clone/static/media/max2090.668548a5.jpg",
+    "static/media/nike.svg": "/nike-clone/static/media/nike.54ce3a36.svg",
+    "static/media/nike.jpg": "/nike-clone/static/media/nike.db5a3018.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4cf28f47.js",
-    "static/js/2.cc548ad0.chunk.js",
-    "static/css/main.9605a562.chunk.css",
-    "static/js/main.610f5ac8.chunk.js"
+    "static/js/2.aab3a995.chunk.js",
+    "static/css/main.3891b1e1.chunk.css",
+    "static/js/main.eef510d4.chunk.js"
   ]
 }
