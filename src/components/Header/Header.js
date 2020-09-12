@@ -7,6 +7,7 @@ import FavoriteBorderIcon from '@material-ui/icons/FavoriteBorder';
 import ShopOutlinedIcon from '@material-ui/icons/ShopOutlined';
 import SearchOutlinedIcon from '@material-ui/icons/SearchOutlined';
 import {Link} from 'react-router-dom';
+import { IconButton } from '@material-ui/core'
 
 function Header() {
     const [input, setInput] = useState('');
@@ -26,11 +27,17 @@ function Header() {
                     {/* 
                         Help | Join Us | Sign In
                     */}
-                    <h5>Help</h5>
+                    <Link to="/help">
+                        <h5>Help</h5>
+                    </Link>
                     <hr />
-                    <h5>Join Us</h5>
+                    <Link to="join">
+                        <h5>Join Us</h5>
+                    </Link>
                     <hr />
-                    <h5>Sign In</h5>
+                    <Link to="/login">
+                        <h5>Sign In</h5>
+                    </Link>
 
                 </div>
             </div>
@@ -67,8 +74,12 @@ function Header() {
                         />
                     </div>
                     
-                    <FavoriteBorderIcon />
-                    <ShopOutlinedIcon />
+                    <IconButton>
+                        <FavoriteBorderIcon />
+                    </IconButton>
+                    <IconButton>
+                        <ShopOutlinedIcon />
+                    </IconButton>
                 </div>
             </div>
         </div>

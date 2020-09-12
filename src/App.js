@@ -3,6 +3,11 @@ import './App.css';
 import Header from './components/Header/Header'
 import NewReleases from './components/NewReleases/NewReleases'
 import Men from './components/Men/Men'
+import Women from './components/Women/Women'
+import Kids from './components/Kids/Kids'
+import Help from './components/Help/Help'
+import Join from './components/Joinus/Join'
+import Login from './components/Signin/Signin'
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
 
 function App() {
@@ -21,12 +26,20 @@ function App() {
             <Men />
           </Route>
           <Route path="/women">
-            <h1>Women</h1>
+            <Women />
           </Route>
           <Route path="/kids">
-            kids
+            <Kids />
           </Route>
-
+          <Route path="/help">
+            <Help />
+          </Route>
+          <Route path="/join">
+            <Join />
+          </Route>
+          <Route path="/login">
+            <Login />
+          </Route>
         </Switch>
       </Router>
     </div>

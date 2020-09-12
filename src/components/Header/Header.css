@@ -42,10 +42,15 @@
     margin: 10px;
 }
 
-.top-right > h5 {
+.top-right > a > h5 {
     margin: 20px;
     font-weight: 600;
     cursor: pointer;
+}
+
+.top-right > a {
+    text-decoration: none;
+    color: black;
 }
 
 .top-right > hr {
@@ -108,6 +113,11 @@
     background-color:rgb(238, 238, 238);
     margin-right: 10px;
     height: 28px;
+}
+
+.search:hover, .search:hover > input {
+    background-color: lightgray;
+    opacity: 1;
 }
 
 .search > input {
