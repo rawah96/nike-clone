@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nike-clone/static/css/main.3891b1e1.chunk.css",
-    "main.js": "/nike-clone/static/js/main.eef510d4.chunk.js",
-    "main.js.map": "/nike-clone/static/js/main.eef510d4.chunk.js.map",
+    "main.js": "/nike-clone/static/js/main.0d699e4c.chunk.js",
+    "main.js.map": "/nike-clone/static/js/main.0d699e4c.chunk.js.map",
     "runtime-main.js": "/nike-clone/static/js/runtime-main.4cf28f47.js",
     "runtime-main.js.map": "/nike-clone/static/js/runtime-main.4cf28f47.js.map",
     "static/js/2.aab3a995.chunk.js": "/nike-clone/static/js/2.aab3a995.chunk.js",
     "static/js/2.aab3a995.chunk.js.map": "/nike-clone/static/js/2.aab3a995.chunk.js.map",
     "index.html": "/nike-clone/index.html",
-    "precache-manifest.6fe39872a8c0ab2a04bd25aeadd18b2d.js": "/nike-clone/precache-manifest.6fe39872a8c0ab2a04bd25aeadd18b2d.js",
+    "precache-manifest.f511379d49cec5eec43680c3e04c7b2f.js": "/nike-clone/precache-manifest.f511379d49cec5eec43680c3e04c7b2f.js",
     "service-worker.js": "/nike-clone/service-worker.js",
     "static/css/main.3891b1e1.chunk.css.map": "/nike-clone/static/css/main.3891b1e1.chunk.css.map",
     "static/js/2.aab3a995.chunk.js.LICENSE.txt": "/nike-clone/static/js/2.aab3a995.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.4cf28f47.js",
     "static/js/2.aab3a995.chunk.js",
     "static/css/main.3891b1e1.chunk.css",
-    "static/js/main.eef510d4.chunk.js"
+    "static/js/main.0d699e4c.chunk.js"
   ]
 }
