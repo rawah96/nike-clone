@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "139e7e28a76c35a65eb8a41be902bf69",
+    "revision": "060ad256d5eec786be0adeedd80fc689",
     "url": "/nike-clone/index.html"
   },
   {
-    "revision": "3b7af6056028541be16d",
-    "url": "/nike-clone/static/css/main.3891b1e1.chunk.css"
+    "revision": "6fa5e2e9828e8b0a42b3",
+    "url": "/nike-clone/static/css/main.f101521b.chunk.css"
   },
   {
-    "revision": "80553093743cfca776c2",
-    "url": "/nike-clone/static/js/2.aab3a995.chunk.js"
+    "revision": "89c29d796e4575c46c60",
+    "url": "/nike-clone/static/js/2.d7edf402.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/nike-clone/static/js/2.aab3a995.chunk.js.LICENSE.txt"
+    "url": "/nike-clone/static/js/2.d7edf402.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b7af6056028541be16d",
-    "url": "/nike-clone/static/js/main.56716fd8.chunk.js"
+    "revision": "6fa5e2e9828e8b0a42b3",
+    "url": "/nike-clone/static/js/main.5f6da8de.chunk.js"
   },
   {
     "revision": "cf0c0c5be3b0f2184d3e",

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/nike-clone/static/css/main.3891b1e1.chunk.css",
-    "main.js": "/nike-clone/static/js/main.56716fd8.chunk.js",
-    "main.js.map": "/nike-clone/static/js/main.56716fd8.chunk.js.map",
+    "main.css": "/nike-clone/static/css/main.f101521b.chunk.css",
+    "main.js": "/nike-clone/static/js/main.5f6da8de.chunk.js",
+    "main.js.map": "/nike-clone/static/js/main.5f6da8de.chunk.js.map",
     "runtime-main.js": "/nike-clone/static/js/runtime-main.4cf28f47.js",
     "runtime-main.js.map": "/nike-clone/static/js/runtime-main.4cf28f47.js.map",
-    "static/js/2.aab3a995.chunk.js": "/nike-clone/static/js/2.aab3a995.chunk.js",
-    "static/js/2.aab3a995.chunk.js.map": "/nike-clone/static/js/2.aab3a995.chunk.js.map",
+    "static/js/2.d7edf402.chunk.js": "/nike-clone/static/js/2.d7edf402.chunk.js",
+    "static/js/2.d7edf402.chunk.js.map": "/nike-clone/static/js/2.d7edf402.chunk.js.map",
     "index.html": "/nike-clone/index.html",
-    "precache-manifest.f83157bb86a5e3b7588f6bff9c1c5817.js": "/nike-clone/precache-manifest.f83157bb86a5e3b7588f6bff9c1c5817.js",
+    "precache-manifest.4ab0d059bc3136155a356fab071ac1dd.js": "/nike-clone/precache-manifest.4ab0d059bc3136155a356fab071ac1dd.js",
     "service-worker.js": "/nike-clone/service-worker.js",
-    "static/css/main.3891b1e1.chunk.css.map": "/nike-clone/static/css/main.3891b1e1.chunk.css.map",
-    "static/js/2.aab3a995.chunk.js.LICENSE.txt": "/nike-clone/static/js/2.aab3a995.chunk.js.LICENSE.txt",
+    "static/css/main.f101521b.chunk.css.map": "/nike-clone/static/css/main.f101521b.chunk.css.map",
+    "static/js/2.d7edf402.chunk.js.LICENSE.txt": "/nike-clone/static/js/2.d7edf402.chunk.js.LICENSE.txt",
     "static/media/airforce.jpg": "/nike-clone/static/media/airforce.1b19df20.jpg",
     "static/media/converse.svg": "/nike-clone/static/media/converse.56e5e5aa.svg",
     "static/media/jordan-delta.jpg": "/nike-clone/static/media/jordan-delta.e1f5b5e7.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4cf28f47.js",
-    "static/js/2.aab3a995.chunk.js",
-    "static/css/main.3891b1e1.chunk.css",
-    "static/js/main.56716fd8.chunk.js"
+    "static/js/2.d7edf402.chunk.js",
+    "static/css/main.f101521b.chunk.css",
+    "static/js/main.5f6da8de.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nike-clone/precache-manifest.f83157bb86a5e3b7588f6bff9c1c5817.js"
+  "/nike-clone/precache-manifest.4ab0d059bc3136155a356fab071ac1dd.js"
 );
 
 self.addEventListener('message', (event) => {
